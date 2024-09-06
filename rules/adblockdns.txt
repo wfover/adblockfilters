@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240906161310
-! Last modified: 2024/09/06 16:13:10
-! Blocked domains: 172107
+! Version: 20240907001201
+! Last modified: 2024/09/07 00:12:01
+! Blocked domains: 172110
 ! unBlocked domains: 51
 !
 ||00771944.xyz^
@@ -13820,7 +13820,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||apsehick.date^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -21502,6 +21502,7 @@
 ||beta-n.ro^
 ||promotionmaterial.betacash.com^
 ||betack.com^
+||betadeadlock.com^
 ||betadria.com^
 ||betads.xyz^
 ||betahit.click^
@@ -28889,7 +28890,6 @@
 ||buzzcurrentnews.shop^
 ||buzzcurrentstories.shop^
 ||buzzdancing.com^
-||buzzdeal.com^
 ||buzzdeck.com^
 ||search.buzzdock.com^
 ||track.buzzerilla.com^
@@ -58324,6 +58324,7 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -60753,6 +60754,7 @@
 ||lp.gesundheitoptimal.shop^
 ||ciszhp.gesundheitsfrage.net^
 ||data-8d4563cf4e.gesundheitstrends.com^
+||gesvfvfhhb6.fun^
 ||geswarpkansan.com^
 ||applink.get-a-way.com^
 ||get-ads.ru^
@@ -101638,6 +101640,7 @@
 ||navi8.com^
 ||navi88.com^
 ||navi94.com^
+||navi98.ru^
 ||navi99.com^
 ||naviblue-team.com^
 ||routes.navibration.com^
@@ -110962,6 +110965,7 @@
 ||pdfexpert.cc^
 ||online.pdfknihovna.cz^
 ||pdfonlineworld.com^
+||log.pdfreaders.net^
 ||pdfsam.com^
 ||pdfsearchhq.com^
 ||pdfsniper.com^
@@ -133238,7 +133242,6 @@
 ||shifauniversity.org^
 ||hm.e.shifen.com^
 ||jpaasne.e.shifen.com^
-||newloc.map.n.shifen.com^
 ||stat-ssl.shift-one.jp^
 ||analytics.shift.agency^
 ||shiftclang.com^
