@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240912161346
-! Last modified: 2024/09/12 16:13:46
-! Blocked domains: 175656
+! Version: 20240913001146
+! Last modified: 2024/09/13 00:11:46
+! Blocked domains: 175662
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -44219,6 +44219,7 @@
 ||qbermy.daxon.fr^
 ||day13vh1xl0gh.cloudfront.net^
 ||www.dayartgallery.com^
+||daybeamposit.com^
 ||daybreakarchitecture.com^
 ||ad.daybreakbulletins.com^
 ||track.daycomics.com^
@@ -59989,6 +59990,7 @@
 ||frugalitymassiveoldest.com^
 ||frugalrevenge.com^
 ||frugalrushcap.com^
+||frugalseck.com^
 ||trk.fruitdor.fr^
 ||fruitflan.com^
 ||fruitfullocksmith.com^
@@ -60762,7 +60764,6 @@
 ||data-497ecca600.ga.de^
 ||ga179.com^
 ||ga836.com^
-||ga87z2o.com^
 ||ga939.com^
 ||ga98.net^
 ||logs.gaana.com^
@@ -107136,6 +107137,7 @@
 ||nurbebe.com.tr^
 ||nurewsawan.org^
 ||nurewsawaninc.info^
+||nurhagstackup.com^
 ||search2.nuriclick.co.kr^
 ||nurno.com^
 ||ssmr.nuro.jp^
@@ -113369,6 +113371,7 @@
 ||secure.peep1alea.com^
 ||www.peep1alea.com^
 ||peepholelandreed.com^
+||peephoogruku.net^
 ||peer39.com^
 ||peer39.net^
 ||marketing.peerapp.com^
@@ -156236,6 +156239,7 @@
 ||adserver.trojaner-info.de^
 ||trojangfw.xyz^
 ||trokemar.com^
+||trolandmattes.com^
 ||partneri.trollbeads.cz^
 ||partneri.trollbeadscz.com^
 ||trolleydemocratic.com^
@@ -158558,6 +158562,7 @@
 ||childrens.health.uhssa.com^
 ||transplant.care.uhssa.com^
 ||web.care.uhssa.com^
+||uhuf56.fun^
 ||uhy89mb.com^
 ||www.uhygtf1.com^
 ||cv.ui-chiho.clinic^
@@ -174455,6 +174460,7 @@
 ||analytics.zefixapp.ch^
 ||zefusgk.com^
 ||zegarkirepliki.pl^
+||zegnoogho.xyz^
 ||cheetah.zeh.co.il^
 ||connect.zehno.com^
 ||smetrics.zehrs.ca^
