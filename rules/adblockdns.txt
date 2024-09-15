@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240915161318
-! Last modified: 2024/09/15 16:13:18
-! Blocked domains: 176764
+! Version: 20240916001109
+! Last modified: 2024/09/16 00:11:09
+! Blocked domains: 176785
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -386,6 +386,7 @@
 ||121phonesex.co.uk^
 ||1221e236c3f8703.com^
 ||1222dfm3l.cc^
+||1228540867.rsc.cdn77.org^
 ||js1.122cha.com^
 ||www.122re.com^
 ||123-counter.de^
@@ -614,6 +615,7 @@
 ||timejs.game.163.com^
 ||yaolu.mh.163.com^
 ||yaolu.yuedu.163.com^
+||16327739.xyz^
 ||www.163ren.com^
 ||ac.dun.163yun.com^
 ||164de830.live^
@@ -642,6 +644,7 @@
 ||16pr72tb5.de^
 ||17-track.info^
 ||www.170066.com^
+||1710712823.rsc.cdn77.org^
 ||cvda.17173.com^
 ||log1.17173.com^
 ||stat.v.17173.com^
@@ -755,6 +758,7 @@
 ||a.1appup.com^
 ||1aqi93ml4.de^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
+||1b384556ae.com^
 ||1b3tmfcbq.de^
 ||1b9cvfi0nwxqelxu.pro^
 ||1bestgoods.com^
@@ -26602,7 +26606,6 @@
 ||boobi.biz^
 ||boobutility.com^
 ||boobzi.com^
-||boododa.com^
 ||boogopee.com^
 ||oj2q8.montecarlosbm.book-secure.com^
 ||bookadil.com^
@@ -28904,6 +28907,7 @@
 ||bumq.com^
 ||pm.bumskontakt.com^
 ||bumskontakte.ch^
+||bumxmomcu.com^
 ||bumyongchoi.com^
 ||buna-pl.com^
 ||bunatietyo.info^
@@ -47262,6 +47266,7 @@
 ||somni.djoglobal.com^
 ||djonwatch.ru^
 ||silverfish.djordjevanjek.com^
+||djosbhwpnfxmx.com^
 ||glbgox.djoser.de^
 ||rrzhbr.djoser.nl^
 ||djponj.xyz^
@@ -51047,6 +51052,7 @@
 ||efbet.com^
 ||efdjelx.com^
 ||soejzg.efe.com.pe^
+||efemsvcdjuov.com^
 ||anon-stats.eff.org^
 ||effacedefend.com^
 ||effaceecho.com^
@@ -55491,6 +55497,7 @@
 ||f8betaa.com^
 ||f8betapp.net^
 ||f8betgg.com^
+||f8d11d9f38.com^
 ||f8dt6.com^
 ||f8e36bb73c.com^
 ||f8ejqxp.cn^
@@ -61800,6 +61807,7 @@
 ||gaulshiite.life^
 ||gauntletjanitorjail.com^
 ||gauntletslacken.com^
+||gaupaufi.net^
 ||gauperaa.no^
 ||gaupsaur.xyz^
 ||gausovoheeza.com^
@@ -80914,6 +80922,7 @@
 ||jotterswirrah.com^
 ||jotulcapital.com^
 ||jouaboe.com^
+||joucefeet.xyz^
 ||jouchaussurvey.top^
 ||joudauhee.com^
 ||joudotee.com^
@@ -88828,6 +88837,7 @@
 ||bizmkt.lguplus.com^
 ||track.biz.lguplus.com^
 ||lgviqkrimvmy.xyz^
+||lgwxawtg.com^
 ||lgygy.cn^
 ||lh031i88q.com^
 ||23jmv6.lhang.work^
@@ -104255,10 +104265,10 @@
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
-||navi38.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi50.com^
 ||navi53.com^
@@ -104272,8 +104282,6 @@
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
-||navi74.com^
-||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -105947,6 +105955,7 @@
 ||nhjkm.com^
 ||nhjn788.fun^
 ||nhjnkis.com^
+||nhjnw78.fun^
 ||mtcs.nhk-ondemand.jp^
 ||apps.nhk.jp^
 ||bc.nhk.jp^
@@ -106366,7 +106375,6 @@
 ||nip57.com^
 ||nip69.com^
 ||nip8.com^
-||nip81.com^
 ||nip89.com^
 ||nip9.com^
 ||mds.nipa.co.th^
@@ -109162,6 +109170,7 @@
 ||olularhenewrev.info^
 ||a8clk.olulu-online.jp^
 ||olvewvnhaqkkc.com^
+||olvwnmnp.com^
 ||tracking.olx-st.com^
 ||insight.olx.ba^
 ||ads.olx.com^
@@ -121767,6 +121776,7 @@
 ||psoorgou.com^
 ||psoorsen.com^
 ||psooshon.net^
+||psoostelrupt.net^
 ||psootaun.com^
 ||psootchu.net^
 ||psoowhoovort.com^
@@ -122026,6 +122036,7 @@
 ||ptumsess.com^
 ||ptumtaip.com^
 ||ptuphotookr.com^
+||ptupsewo.net^
 ||ptutchiz.com^
 ||confirm.ptvgroup.com^
 ||your.maas.ptvgroup.com^
@@ -130103,6 +130114,7 @@
 ||links.riverratrounders.com^
 ||riverregiontimes.com^
 ||riversingratitudestifle.com^
+||riverstressful.com^
 ||rivervalleytoday.com^
 ||ionos.rivervc.org^
 ||links.riverview.org^
@@ -130207,6 +130219,7 @@
 ||rm0005.net^
 ||rm04.net^
 ||rmahmighoogg.com^
+||rmaiadmw.com^
 ||rmaingenieros.net^
 ||rmarfin.com^
 ||rmarstock.com^
@@ -141379,6 +141392,7 @@
 ||soonpersuasiveagony.com^
 ||soonstrongestquoted.com^
 ||link.sooooon.com^
+||soopsepsi.net^
 ||sooqgerizim.com^
 ||sooraneh.ir^
 ||soorbka.cn^
@@ -145185,6 +145199,7 @@
 ||data-fb37a1e7c3.stuttgarter-nachrichten.de^
 ||data-1fbcf6d7f5.stuttgarter-zeitung.de^
 ||data-fb37a1e7c3.stuttgarter-zeitung.de^
+||stuwhost.net^
 ||join.stuypend.com^
 ||sumologic.stv.tv^
 ||stvbiopr.net^
@@ -148714,7 +148729,6 @@
 ||tbecleaning.com^
 ||tberjonk.com^
 ||tbex.ru^
-||tbg-lmtd.xyz^
 ||trk.tbivision.com^
 ||tbk-app.com^
 ||tbk.tm^
@@ -156830,6 +156844,7 @@
 ||trenatolls.com^
 ||trencheeukinternational.com^
 ||trenchenious.com^
+||trenchpoor.net^
 ||data-1f00ebbd99.trend.at^
 ||trendagon.com^
 ||tujestwildard.trendattune.com^
@@ -162827,6 +162842,7 @@
 ||uuwwbb.github.io^
 ||uux68.com^
 ||uuxfznnf.xyz^
+||uuyhonsdpa.com^
 ||zzcw.uuzham.com^
 ||uuzlytbpmmhfm.com^
 ||uuzsfpju.xyz^
@@ -170025,6 +170041,7 @@
 ||whisla.com^
 ||whispa.com^
 ||whisperinflate.com^
+||whisperingauroras.com^
 ||whisperingbadge.com^
 ||whisperingcascade.com^
 ||whisperingcrib.com^
@@ -171982,6 +171999,7 @@
 ||ww472co.top^
 ||ww88club.com^
 ||wwads.cn^
+||wwaeljajwvlrw.top^
 ||wwaol.com^
 ||wwclick.su^
 ||wwclickgo.com^
@@ -172020,6 +172038,7 @@
 ||wwpush22.com^
 ||wwqssmg.com^
 ||www.wwt-ag.ch^
+||wwvxdhbmlqcgk.xyz^
 ||www-1inch-web3.com^
 ||www-989bet.com^
 ||www-amylguard.com^
@@ -172289,6 +172308,7 @@
 ||usfv.xaeszvg.xyz^
 ||xafuzcxr.xyz^
 ||xageyai.com^
+||xahttwmfmyji.com^
 ||www.xahywwx.com^
 ||marketing.xait.com^
 ||xajibur.ru^
@@ -176648,6 +176668,7 @@
 ||zvu9s9.com^
 ||zvuker.net^
 ||zvvlbf.xyz^
+||zvvqprcjjnh.com^
 ||data-4fa18eb5e3.zvw.de^
 ||zvwhrc.com^
 ||zwaar.net^
