@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240920161351
-! Last modified: 2024/09/20 16:13:51
-! Blocked domains: 177818
+! Version: 20240921001221
+! Last modified: 2024/09/21 00:12:21
+! Blocked domains: 177827
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -16840,6 +16840,7 @@
 ||images.retail.ausbil.com.au^
 ||inpost.ausecurity.help^
 ||coles.ausexchanges.info^
+||aushaq.top^
 ||ausiburger.com^
 ||ausirolabs.com^
 ||auslogics.com^
@@ -24810,6 +24811,7 @@
 ||info.bkifg.com^
 ||bkirfeu.com^
 ||bkisenkith.com^
+||bkiterv.top^
 ||ads.bkitsoftware.com^
 ||bkjhqkohal.com^
 ||tracker.bkk24.de^
@@ -40371,6 +40373,7 @@
 ||count.ly^
 ||count.me.uk^
 ||count24.de^
+||countabledawdlerunaudited.com^
 ||countar.de^
 ||countby.com^
 ||countdownlogic.com^
@@ -41799,6 +41802,7 @@
 ||silkroad.csdn.net^
 ||zhannei-dm.csdn.net^
 ||kunpeng-sc.csdnimg.cn^
+||csdsa22.fun^
 ||csemizuho.fr^
 ||a.csfd.cz^
 ||csfd1qtef.top^
@@ -47631,6 +47635,7 @@
 ||dkrbus.com^
 ||dkre4lyk6a9bt.cloudfront.net^
 ||dkrqyly.com^
+||dkstrtss.xyz^
 ||dktr.ru^
 ||dktr03lf4tq7h.cloudfront.net^
 ||dkuim.de^
@@ -73609,6 +73614,7 @@
 ||e.imguol.com^
 ||ads.imgur.com^
 ||iob.imgur.com^
+||mp.imgur.com^
 ||p.imgur.com^
 ||t.imgur.com^
 ||zrk.imgur.com^
@@ -126132,6 +126138,7 @@
 ||qualitiesstopsallegiance.com^
 ||quality-channel.de^
 ||quality-products1.blogspot.com^
+||qualityadverse.com^
 ||xgkrkm.qualitybath.com^
 ||qualitydestructionhouse.com^
 ||app-percuma.qualityfnc.com^
@@ -172564,6 +172571,7 @@
 ||worthlessstrings.com^
 ||ads.worthplaying.com^
 ||worthspontaneous.com^
+||worthwhile-wash.com^
 ||worthwhileawe.com^
 ||worthylighteravert.com^
 ||a8cv.worx.jp^
@@ -174922,6 +174930,7 @@
 ||yeesihighlyre.info^
 ||yeesshh.com^
 ||data-a7deba18e8.yeet.de^
+||ads.yeeyi.com^
 ||yeezysofficial.us.com^
 ||yefzjingxudwib.com^
 ||yeggniobous.com^
