@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240927001237
-! Last modified: 2024/09/27 00:12:37
-! Blocked domains: 180834
+! Version: 20240927084702
+! Last modified: 2024/09/27 08:47:02
+! Blocked domains: 180844
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -21370,6 +21370,7 @@
 ||tul90.bebrave.top^
 ||bebreloomr.com^
 ||fee-hydrocodone.bebto.com^
+||bebxhcip.icu^
 ||becacecci.com^
 ||becamedevelopfailure.com^
 ||becamemayhemunderstood.com^
@@ -23774,6 +23775,7 @@
 ||st1.bhol.co.il^
 ||tr.bhootolea.com^
 ||bhotiyadiascia.com^
+||bhovrath.com^
 ||ensighten.bhphoto.com^
 ||affiliates.bhphotovideo.com^
 ||bhpprfk.cn^
@@ -30796,6 +30798,7 @@
 ||cai2rkvrqif358.top^
 ||cai75tp.com^
 ||caicaipoop.com^
+||caicme.xyz^
 ||caicshop.com^
 ||caicuptu.xyz^
 ||caigobou.com^
@@ -43133,6 +43136,7 @@
 ||mdws.cvcu.bc.ca^
 ||djdjjdj33838.cvcv.my.id^
 ||dkdkdk322.cvcv.my.id^
+||cvdfvdfv90.fun^
 ||sc.cvent.com^
 ||ssc.cvent.com^
 ||mobile-event.cvent.me^
@@ -43166,6 +43170,7 @@
 ||cvsheil.com^
 ||smetrics.cvty.com^
 ||cvudqzoa.xyz^
+||cvujac.xyz^
 ||cvupdateservice.com^
 ||ads.cvut.cz^
 ||cvxwaslonejulyha.info^
@@ -46307,6 +46312,7 @@
 ||partner.denishenry.cz^
 ||kqchxa.denizbutik.com^
 ||denizfirsatlarimbasvuru.xyz^
+||denjpl.xyz^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
 ||cv.denkichoice.jp^
@@ -52248,6 +52254,7 @@
 ||eeriemediocre.com^
 ||eeroawug.com^
 ||eersutoo.net^
+||eeryt111.fun^
 ||eeshemto.com^
 ||eesidesukbeingaj.com^
 ||eesihighlyrec.xyz^
@@ -58060,6 +58067,7 @@
 ||fef32df9aa.com^
 ||fefgvh.xyz^
 ||fefqkn.org^
+||fefwe334.fun^
 ||fegortius.com^
 ||feheci.com^
 ||data-f1e447fbcf.fehmarn24.de^
@@ -170879,6 +170887,7 @@
 ||comex.vrhc.live^
 ||track.msadcenter.vrhe.com^
 ||marketing.vrijekavelsvathorst.nl^
+||vrinqop.icu^
 ||vrixon.com^
 ||somni.vrk.de^
 ||vrkengineering.com^
@@ -175693,6 +175702,7 @@
 ||wwall.wsepliber.info^
 ||wstar.wsepmoon.info^
 ||widol.wseppond.info^
+||wsgayq.xyz^
 ||wsgwc.com^
 ||cdn.wshareit.com^
 ||cdn.bss.wshareit.com^
