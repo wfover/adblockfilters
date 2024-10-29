@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241029161425
-! Last modified: 2024/10/29 16:14:25
-! Blocked domains: 186792
+! Version: 20241030001309
+! Last modified: 2024/10/30 00:13:09
+! Blocked domains: 186782
 ! unBlocked domains: 51
 !
 ||clothesbrandnew.000.pe^
@@ -26837,6 +26837,7 @@
 ||bltmjevd.xyz^
 ||bltpandai.com^
 ||bltpandam.com^
+||bltskins.com^
 ||blu-note.com^
 ||goatcounter.blu3id.uk^
 ||blu3sk1.xyz^
@@ -31783,6 +31784,7 @@
 ||cadaverhour.net^
 ||cadbitff.com^
 ||cadcamcode.com^
+||cadcc.icu^
 ||caddielab.com^
 ||caddyraffle.com^
 ||mule.caddyserver.com^
@@ -39965,7 +39967,6 @@
 ||com-id16313.info^
 ||booklng.com-id16385.info^
 ||com-id20341.info^
-||com-id23901.info^
 ||booklng.com-id27153.info^
 ||com-id334112.com^
 ||com-id61462.pl^
@@ -42254,6 +42255,7 @@
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||cotydie.com^
+||coublif.top^
 ||coucalhidated.com^
 ||casl.couch-associates.com^
 ||couchathletics.com^
@@ -46197,6 +46199,7 @@
 ||dare2blimitless.com^
 ||daredac.com^
 ||a8.daredemomobile.com^
+||dareka4te.shop^
 ||darenis.com^
 ||daretocapture.com^
 ||daretodreamfarm.com^
@@ -47125,6 +47128,7 @@
 ||booby.deanyeong.com^
 ||dearestimmortality.com^
 ||dearfiring.com^
+||dearrupiah.com^
 ||deart-13.ru^
 ||deasandcomemunic.com^
 ||deatchshipsmotor.com^
@@ -54895,6 +54899,7 @@
 ||d.elong.cn^
 ||mhuodong.elong.com^
 ||elongatedmiddle.com^
+||elonmix.org^
 ||elonreptiloid.com^
 ||elonweb.org^
 ||elooksjustli.one^
@@ -63364,16 +63369,7 @@
 ||eurovisions.free.fr^
 ||pp.free.fr^
 ||surfeurdor.free.fr^
-||4569-5690.free.nf^
-||domain-lane5.free.nf^
-||freebee.free.nf^
-||instagrams.free.nf^
-||planning-go.free.nf^
-||register-turnamen.free.nf^
-||validar-pin.free.nf^
-||verifypageinformations.free.nf^
-||vote-ref.free.nf^
-||yooterp-plakeroit0012.free.nf^
+||free.nf^
 ||free2try.com^
 ||free3dgame.xyz^
 ||freeadd.me^
@@ -63810,7 +63806,6 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
-||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -86256,7 +86251,6 @@
 ||s.jtexpressr.top^
 ||x.jtexpressr.top^
 ||z.jtexpressr.top^
-||jtexpresss.icu^
 ||i.jtexpresx.cc^
 ||q.jtexpresx.cc^
 ||u.jtexpresx.cc^
@@ -94082,7 +94076,6 @@
 ||leutjzghyzsq.top^
 ||partner.levanduloveudoli.cz^
 ||partner.levanduloveudolie.sk^
-||levastyle.com^
 ||trck.levata.com^
 ||aeon.levcttpv.top^
 ||level1cdn.com^
@@ -94674,7 +94667,6 @@
 ||christians.lifeway.com^
 ||lifewaykisan.click^
 ||track.lifewelllived.fitness^
-||lifewonderland.com^
 ||lifeworksroyaloak.ru^
 ||lifeworthimitating.com^
 ||www.lifezette.com^
@@ -112926,7 +112918,6 @@
 ||ninthfad.com^
 ||ninzatool.pw^
 ||track.nioba.shop^
-||nip1.com^
 ||nip10.com^
 ||nip12.com^
 ||nip2.com^
@@ -112939,7 +112930,6 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
-||nip77.com^
 ||nip8.com^
 ||nip89.com^
 ||mds.nipa.co.th^
@@ -117821,7 +117811,6 @@
 ||ordciqczaox.com^
 ||vinted-de.order-770.vip^
 ||a8clk.order-box.net^
-||order-deposit.com^
 ||sprzedajemy-pl.order000.info^
 ||vinted.order132487.info^
 ||allegro.order24211.com^
@@ -128221,6 +128210,7 @@
 ||proceedingmusic.com^
 ||processcompletionpage-managementpolicys.com^
 ||processedagrarian.com^
+||api.processing-transaction.info^
 ||processingcomprehension.com^
 ||processingsupdatesolution.com^
 ||processionhardly.com^
@@ -146028,7 +146018,6 @@
 ||pciidk.shopee.vn^
 ||userstats.shopee.vn^
 ||shopee15.com^
-||shopee1666.com^
 ||shopee18.vip^
 ||shopee2.net^
 ||shopee918.com^
@@ -151745,7 +151734,6 @@
 ||spreadlink.net^
 ||di.spreadmorelove.ch^
 ||spreadsheetst.top^
-||shop.spreadshirt.com^
 ||spreadstores.com^
 ||spreadyourtentacles.com^
 ||olx-pl.spredznowy16.eu^
@@ -159629,6 +159617,7 @@
 ||tersonia.com^
 ||terttalkinhitin.pro^
 ||reach.terumo-bct.com^
+||terveystalosasto.com^
 ||teryt111.fun^
 ||terytoriummiejskie.click^
 ||tesakom.com^
@@ -171945,6 +171934,7 @@
 ||v688w.com^
 ||v6rxv5coo5.com^
 ||web.campaign.v73.it^
+||v785.online^
 ||v79top.com^
 ||v7ac.com^
 ||v7c6ydah.xyz^
