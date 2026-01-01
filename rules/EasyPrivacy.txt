@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: wb+EVMpOoJuXOvRfQvL7QQ
-! Version: 202512311601
+! Checksum: ePgunx5CziSYF2CLSGHmIw
+! Version: 202601010056
 ! Title: EasyPrivacy
-! Last modified: 31 Dec 2025 16:01 UTC
+! Last modified: 01 Jan 2026 00:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50405,6 +50405,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||chefkoch.de/tracking/
 ||cinestar.de/collect/
 ||click.alternate.de^
+||cltr.willhaben.at^
 ||cmp2.channelpartner.de^
 ||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
